@@ -22,10 +22,10 @@ You also need to install the Pillow library, which can be done via pip:
 pip install Pillow
 ```
 ## Usage
-- **Set Up Your Directories:
+- ** Set Up Your Directories:
 Modify the input_folder and output_folder paths in the script to match the directories you are working with.
 
-- **Run the Script:
+- ** Run the Script:
 Execute the script to convert all images in the input_folder to JPEG format and save them in the output_folder. Original files will be deleted to save space.
 
 Example command to run the script:
